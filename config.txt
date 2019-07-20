@@ -1,0 +1,6 @@
+owner=488701619345686538
+prefix=1	
+game=Op In The Top
+stayinchannel=true
+songinstatus=false
+token=NjAyMDY4NzA2ODk3NDI4NDgx.XTLhng.qPK_V9q_xZyXyrHIcbNDtFSoaQs
